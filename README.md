@@ -1,6 +1,6 @@
-# KnowledgeArea
-Source code for KnowledgeArea. https://knowledgearea.glitch.me. 
-
-### Contribute to KnowledgeArea!
-
-Fork this repo! Repo at https://glitch.com/edit/#!/knowledgearea.
+# knowledgearea-open-source
+Open source code for knowledgearea
+### What is knowledgearea?
+KnowledgeArea is an area where people can share good knowledge only.
+It's really just a big chatbox tbh
+### 

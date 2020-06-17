@@ -1,0 +1,3 @@
+Chat about errors
+
+-sweetalert not working
